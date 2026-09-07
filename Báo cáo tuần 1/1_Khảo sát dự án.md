@@ -1,18 +1,18 @@
-# KHẢO SÁT DỰ ÁN S.HOME
+## KHẢO SÁT DỰ ÁN S.HOME
 
-## 1. Mục đích
+**1. Mục đích**
 
 Tìm hiểu tổng quan hệ thống S.Home, các nhóm chức năng và đối tượng
 sử dụng để có cái nhìn ban đầu về hệ thống trước khi thực hiện kiểm thử.
 
-## 2. Tổng quan hệ thống
+**2. Tổng quan hệ thống**
 
 S.Home là website thương mại điện tử kinh doanh nội thất.
 
 Hệ thống bao gồm các chức năng phục vụ hoạt động mua sắm và các chức năng
 quản trị, quản lý dữ liệu của hệ thống.
 
-## 3. Các nhóm chức năng khảo sát
+**3. Các nhóm chức năng khảo sát**
 
 - Đăng nhập.
 - Quản lý chi nhánh.
@@ -25,7 +25,7 @@ quản trị, quản lý dữ liệu của hệ thống.
 - Quản lý bộ sưu tập.
 - Quản lý nguồn chiến dịch.
 
-## 4. Nội dung tìm hiểu
+**4. Nội dung tìm hiểu**
 
 Trong quá trình khảo sát, tập trung tìm hiểu:
 
@@ -36,7 +36,7 @@ Trong quá trình khảo sát, tập trung tìm hiểu:
 - Các điều kiện và quy tắc nghiệp vụ.
 - Các trường hợp có thể phát sinh lỗi.
 
-## 5. Kết quả
+**5. Kết quả**
 
 - Nắm được tổng quan hệ thống S.Home.
 - Xác định được các nhóm chức năng chính.
