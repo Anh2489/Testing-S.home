@@ -1,4 +1,4 @@
-## BÁO CÁO THỰC TẬP TUẦN 6
+## BÁO CÁO THỰC TẬP TUẦN 5
 
 **1. Mục tiêu**
 Xây dựng chương trình kiểm thử tự động cho một số chức năng trong hệ thống S.Home.
